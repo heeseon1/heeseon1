@@ -5,12 +5,9 @@
 
 <h3>GitHub 💾</h3> 
 
-<a href="s">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=heeseon1&theme=radical&show_icons=true&width=300px" />
-</a>
-<a href="s">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeseon1&exclude_repo=heeseon1.github.io&layout=compact&theme=radical&card_width=300px" />
-</a>
+
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=heeseon1&theme=radical&show_icons=true&width=300px" /><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeseon1&exclude_repo=heeseon1.github.io&layout=compact&theme=radical&card_width=300px" />
+
 
 
 
