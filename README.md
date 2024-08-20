@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&text=⚾🍀📚&fontAlign=70)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=-1px;&pause=1000&center=true&vCenter=true&width=500&height=100&lines=He%2C+I'm+Hee+Seon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=-1px;&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I'm+Hee+Seon)](https://git.io/typing-svg)
 
 
 <h3>GitHub 💾</h3> 
