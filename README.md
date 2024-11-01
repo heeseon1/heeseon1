@@ -5,7 +5,7 @@
 
 <h3>contact information 📮</h3>
 <span> 
-<img alt="Static Badge" src="https://img.shields.io/badge/heeseon7789@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white&link=heeseon7789%40gmail.com">
+<a href="mailto:heeseon7789@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/heeseon7789@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white&link=heeseon7789%40gmail.com"></a>
 <a href="https://velog.io/@heeseon77" target=_"blank"><img alt="Static Badge" src="https://img.shields.io/badge/Velog-%2320C997?style=flat&logo=Velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40heeseon77%2Fposts"></a>
 </span>
 <p></p>
