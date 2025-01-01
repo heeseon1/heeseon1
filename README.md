@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&text=HeeSeon's%20Github📚&fontAlign=70&fontSize=50&&fontColor=373737)
 
 
@@ -14,7 +13,6 @@
 <h3>Languages 💬</h3>
 <span>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23000000?style=flat&logo=javascript&logoColor=%23F7DF1E">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white">
 </span>
@@ -55,6 +53,7 @@
 <span>
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23FF7800?style=flat&logo=java&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-%236DB33F?style=flat&logo=spring&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23000000?style=flat&logo=javascript&logoColor=%23F7DF1E">
 </span>
 
 <h3>GitHub 💾</h3> 
