@@ -54,15 +54,12 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23FF7800?style=flat&logo=java&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-%236DB33F?style=flat&logo=spring&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23000000?style=flat&logo=javascript&logoColor=%23F7DF1E">
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=heeseon1)](https://solved.ac/heeseon1)
 </span>
 
 <h3>GitHub 💾</h3> 
-<span> 
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeseon1)](https://solved.ac/heeseon1/)
-  
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeseon1&exclude_repo=heeseon1.github.io&layout=compact&theme=radical&card_width=300px" /> 
-</span>
 
 
 <!--
